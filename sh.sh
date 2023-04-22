@@ -1,0 +1,1 @@
+gcc rratbestP0.c  -o rratbestP0  -lgsl -lgslcblas -lcpgplot -lpgplot -lX11 -lgfortran -lpng -lz -O3 -lm -Wall
