@@ -1,6 +1,6 @@
 The software is to search the rotation period of RRAT using a single pulse with the method of Keane et al.(2010) (doi: 10.1111/j.1365-2966.2009.15693.x)
 
-This software is used in the FAST GPPS survey.
+This software is used in the FAST GPPS survey: http://zmtt.bao.ac.cn/GPPS/.
 
 
 
